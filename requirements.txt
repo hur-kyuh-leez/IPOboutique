@@ -4,7 +4,7 @@ cffi==1.12.0
 chardet==3.0.4
 greenlet==0.4.13
 idna==2.8
-lxml==4.3.2
+lxml==4.9.1
 readline==6.2.4.1
 requests==2.21.0
 soupsieve==1.8
